@@ -1,0 +1,23 @@
+header div{
+    height: 200px;
+    background-color:#BC9CB0;
+ }
+ header h1{
+    padding-top: 5%;
+ }
+ main{
+    background-color: #D3CDD7;
+ }
+ aside{
+    width: 30%;
+    height: 600px;
+    display: block;
+    float: left;
+    background-color: rgb(126, 126, 126);
+ }
+ article {
+    height: 600px;
+    display: block;
+    float: right;
+    background-color: #D3CDD7;
+}
